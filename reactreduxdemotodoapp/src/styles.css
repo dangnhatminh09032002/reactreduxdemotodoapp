@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+}
+
+.rest {
+  width: 200px;
+  height: 200px;
+  background: red;
+  display: flex;
+}
+
+.test {
+  width: 50px;
+  height: 50px;
+  background: blue;
+  padding: 10px;
+  outline: 8px ridge rgba(170, 50, 220, 0.6);
+  border: 8px solid orange;
+  margin: 50px;
+}
